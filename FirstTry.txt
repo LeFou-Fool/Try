@@ -1,3 +1,4 @@
 ﻿This is my first file in git.
 I hope it can be successful.
 Emperor protects.
+If I change it what will happen?
