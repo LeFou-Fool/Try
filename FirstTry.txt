@@ -1,0 +1,3 @@
+﻿This is my first file in git.
+I hope it can be successful.
+Emperor protects.
